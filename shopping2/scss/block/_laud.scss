@@ -1,0 +1,45 @@
+.laud_content{
+    display: grid;
+    align-items: center;
+}
+
+.laud_container{
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    padding-top: 123px;
+    gap: 268px;
+    padding-left: 240px;
+}
+.laud_text{
+color: #22262A;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: 50px;
+}
+
+.input{
+   border-radius:#40BFFF;
+    padding: 16px 370px 16px 16px;
+
+}
+.laud_input{
+    display: flex;
+    padding-top: 132px;
+    padding-left: 300px;
+    padding-bottom: 52px;
+
+}
+   
+.karopka{
+    display: flex;
+    align-items: center;
+
+    // background-color:  #40BFFF;
+}
+   .laud_btm{
+    background-color:  #40BFFF;
+    border: none;
+   } 
